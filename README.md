@@ -1,10 +1,10 @@
-# Article Title: Cholesterol derivatives regulate Adenylyl cyclase 7 activity by binding CARC and CRAC motifs in the cytosolic parts
+## Article Title: Cholesterol derivatives regulate Adenylyl cyclase 7 activity by binding CARC and CRAC motifs in the cytosolic parts
 
-## Authors: [Radim Jaroušek], [423168@muni.cz]
+### Authors: [Radim Jaroušek], [423168@muni.cz]
 
-## Corresponding Author: [kubalal@ibp.cz]
+### Corresponding Author:[Lukas Kubala] [kubalal@ibp.cz]
 
-## This repository contains supplementary data, analysis scripts, and supporting files associated with the article "Cholesterol derivatives regulate Adenylyl cyclase 7 activity by binding CARC and CRAC motifs in the cytosolic parts" Here, we explore how cholesterol and its derivatives modulate Adenylyl Cyclase 7 (AC7) structure and function through computational predictions, docking studies, and sequence alignments.
+### This repository contains supplementary data, analysis scripts, and supporting files associated with the article "Cholesterol derivatives regulate Adenylyl cyclase 7 activity by binding CARC and CRAC motifs in the cytosolic parts" Here, we explore how cholesterol and its derivatives modulate Adenylyl Cyclase 7 (AC7) structure and function through computational predictions, docking studies, and sequence alignments.
 
 Repository Structure
 DeepSite -binding site prediction/
