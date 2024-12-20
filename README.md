@@ -10,7 +10,7 @@
 #### DeepSite -binding site prediction
 ##### Contains input files and results from DeepSite, a binding site prediction tool. These predictions helped identify potential cholesterol and derivative binding pockets on the AC7 structure.
 
-#### DiffDock - diffdock docking of cholesterol derivatives/
+#### DiffDock - DiffDock docking of cholesterol derivatives
 ##### Results obtained from DiffDock, a diffusion-based docking method. It includes configuration files, run scripts, and output data showing how cholesterol derivatives interact with the predicted AC7 binding sites.
 
 #### DockThor_Cholesterol
