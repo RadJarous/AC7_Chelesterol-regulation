@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.1061
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9818
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5007
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 40.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.3825
+HEADER 10  -Pocket volume (convex hull)       : 3.6355
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM   3147  CD2 LEU C 182      14.176  -5.671  25.276  0.00  0.00           C 0
+ATOM   3139    O GLY C 181      14.181  -9.108  28.148  0.66  5.36           O 0
+ATOM   3138    C GLY C 181      13.522  -9.554  27.207  0.00  0.00           C 0
+ATOM   2453  CD2 LEU C  92      20.822  -9.586  23.650  0.00  0.00           C 0
+ATOM   2459   CG GLU C  93      18.660  -5.692  27.609  0.00  0.00           C 0
+ATOM   3137   CA GLY C 181      13.743 -10.971  26.714  0.00  0.00           C 0
+ATOM   2490  ND1 HIS C  96      17.786  -7.826  20.340  0.65  2.19           N 0
+ATOM   2449    O LEU C  92      19.832  -5.341  22.819  0.62  1.07           O 0
+ATOM   2487   CB HIS C  96      16.312  -5.803  20.644  0.00  0.00           C 0
+ATOM   3107    O THR C 177      13.215 -13.153  23.284  0.00  0.00           O 0
+ATOM   3112   CA ILE C 178      13.457 -10.932  21.633  0.00  0.00           C 0
+ATOM   3118  CD1 ILE C 178      16.131 -10.720  20.136  0.00  0.00           C 0
+ATOM   3109  CG2 THR C 177      14.617 -15.611  21.757  0.00  0.00           C 0
+ATOM   3114    O ILE C 178      12.926  -9.703  23.626  0.00  0.00           O 0
+ATOM   3117  CG2 ILE C 178      14.032  -8.613  20.801  0.00  0.00           C 0
+ATOM   2455   CA GLU C  93      19.073  -4.597  25.335  0.00  0.00           C 0
+TER
+END

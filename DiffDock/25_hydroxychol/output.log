@@ -1,0 +1,23 @@
+Standard out:
+Generating ESM language model embeddings
+encountered unknown AA:  HIE  in the complex. Replacing it with a dash - .
+encountered unknown AA:  HIE  in the complex. Replacing it with a dash - .
+Processing 1 of 1 batches (2 sequences)
+
+Standard error:
+[2024-Apr-30 12:58:21 UTC] [inference.py:153] INFO - DiffDock will run on cuda
+[2024-Apr-30 12:58:32 UTC] [inference.py:184] INFO - Confidence model uses different type of graphs than the score model. Loading (or creating if not existing) the data for the confidence model now.
+[2024-Apr-30 12:58:41 UTC] [inference.py:223] INFO - Size of test dataset: 1
+
+0it [00:00, ?it/s]/home/appuser/DiffDock/datasets/parse_chi.py:91: RuntimeWarning: invalid value encountered in cast
+  Y = indices.astype(int)
+/home/appuser/DiffDock/datasets/parse_chi.py:44: RuntimeWarning: invalid value encountered in divide
+  m1 = np.cross(n1, b1 / np.linalg.norm(b1, axis=1, keepdims=True))
+
+1it [01:15, 75.06s/it]
+1it [01:15, 75.06s/it]
+[2024-Apr-30 12:59:56 UTC] [inference.py:312] INFO - 
+    Failed for 0 / 1 complexes.
+    Skipped 0 / 1 complexes.
+
+[2024-Apr-30 12:59:56 UTC] [inference.py:313] INFO - Results saved in /tmp/tmpcskq7egc

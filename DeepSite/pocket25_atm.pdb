@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1063
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5797
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 34.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 314.0422
+HEADER 10  -Pocket volume (convex hull)       : 20.7073
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   2009   CB ASP C  34     -20.021   2.532  -1.546  0.00  0.00           C 0
+ATOM   2008    O ASP C  34     -22.429   3.518  -2.780  0.00  0.00           O 0
+ATOM   2011  OD1 ASP C  34     -18.780   2.981  -3.541  0.31  8.57           O 0
+ATOM   1986    O THR C  31     -21.174  -1.130  -0.164  0.00  0.00           O 0
+ATOM   1984   CA THR C  31     -18.861  -1.590   0.283  0.00  0.00           C 0
+ATOM   1272   CG HIS B 163     -16.675  -2.089  -6.116  0.00  0.00           C 0
+ATOM   1988  CG2 THR C  31     -19.440  -3.686  -1.008  0.00  0.00           C 0
+ATOM   1273  CD2 HIS B 163     -17.240  -2.633  -7.220  0.00  0.00           C 0
+ATOM   1274  ND1 HIS B 163     -16.372  -3.141  -5.279  0.41  2.19           N 0
+ATOM   2007    C ASP C  34     -22.449   3.149  -1.604  0.00  0.00           C 0
+ATOM   2019  CG2 VAL C  35     -25.140   0.539  -0.983  0.00  0.00           C 0
+ATOM   1977  CD1 TYR C  30     -15.589   1.411  -0.497  0.00  0.00           C 0
+ATOM   1271   CB HIS B 163     -16.387  -0.665  -5.760  0.00  0.00           C 0
+ATOM   1276  NE2 HIS B 163     -17.269  -3.993  -7.033  0.00  0.00           N 0
+ATOM   1275  CE1 HIS B 163     -16.740  -4.274  -5.855  0.00  0.00           C 0
+ATOM   1652   CE MET B 211     -21.143  -7.919  -6.981  0.00  0.00           C 0
+ATOM   1618   OH TYR B 207     -17.021  -6.929  -6.041  0.57  3.21           O 0
+ATOM   1651   SD MET B 211     -20.680  -9.567  -6.381  0.00  0.00           S 0
+ATOM   1616  CE2 TYR B 207     -16.429  -9.019  -5.052  0.00  0.00           C 0
+TER
+END

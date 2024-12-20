@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0509
+HEADER 1  - Drug Score                        : 0.6413
+HEADER 2  - Number of alpha spheres           :    58
+HEADER 3  - Mean alpha-sphere radius          : 4.0491
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6214
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 45.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6875
+HEADER 9  - Pocket volume (Monte Carlo)       : 611.0891
+HEADER 10  -Pocket volume (convex hull)       : 114.2513
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 28.6190
+HEADER 13 - Number of apolar alpha sphere     :    42
+HEADER 14 - Proportion of apolar alpha sphere : 0.7241
+ATOM    309   CB LYS B  39     -10.925  15.666  -6.286  0.00  0.00           C 0
+ATOM   1231   OH TYR B 158      -5.993  12.839  -7.689  0.84  4.29           O 0
+ATOM   1229  CE2 TYR B 158      -4.523  13.183  -5.840  0.00  0.00           C 0
+ATOM   1143    O CYS B 148      -8.754  12.814  -4.216  0.71  1.07           O 0
+ATOM    290   CB TYR B  37      -7.122  17.203   0.462  0.00  0.00           C 0
+ATOM    301    O VAL B  38     -11.981  15.727  -2.748  0.54  6.43           O 0
+ATOM    288    C TYR B  37      -8.675  15.452  -0.422  0.00  0.00           C 0
+ATOM   1156  CG2 VAL B 150      -3.687  14.544   0.877  0.00  0.00           C 0
+ATOM    107  CD1 ILE B  15      -5.246  20.184   0.220  0.00  0.00           C 0
+ATOM     51  CD1 ILE B   7      -1.721  17.210   1.241  0.00  0.00           C 0
+ATOM    298    N VAL B  38     -10.004  15.276  -0.903  0.00  0.00           N 0
+ATOM    300    C VAL B  38     -11.176  14.827  -3.000  0.00  0.00           C 0
+ATOM    287   CA TYR B  37      -8.497  16.548   0.622  0.00  0.00           C 0
+ATOM    281    O LEU B  36     -10.632  17.122   2.418  0.43  9.64           O 0
+ATOM    311   CD LYS B  39     -10.885  17.205  -8.277  0.00  0.00           C 0
+ATOM    334  NE2 HIS B  41      -9.738  14.289  -9.884  0.00  0.00           N 0
+ATOM    292  CD1 TYR B  37      -7.309  19.617   1.182  0.00  0.00           C 0
+ATOM   1147   CA GLY B 149      -6.488  12.501  -2.658  0.00  0.00           C 0
+ATOM    289    O TYR B  37      -7.726  14.734  -0.745  0.59  2.14           O 0
+ATOM    105  CG1 ILE B  15      -5.954  21.501  -0.065  0.00  0.00           C 0
+ATOM    134  NH1 ARG B  18      -9.580  23.721  -5.102  0.00  0.00          1+ 0
+ATOM     77   CE MET B  11      -2.747  18.720  -4.877  0.00  0.00           C 0
+ATOM     49  CG1 ILE B   7      -0.523  17.364   0.314  0.00  0.00           C 0
+ATOM   1155  CG1 VAL B 150      -2.325  13.227  -0.772  0.00  0.00           C 0
+ATOM    305    N LYS B  39     -10.941  14.402  -4.179  0.00  0.00           N 0
+ATOM    143  CD2 LEU B  19     -11.957  23.026   4.183  0.00  0.00           C 0
+ATOM    129   CB ARG B  18     -10.215  26.274  -0.530  0.00  0.00           C 0
+ATOM    103    O ILE B  15      -8.456  24.597   2.248  0.00  0.00           O 0
+ATOM    106  CG2 ILE B  15      -7.211  21.643   2.119  0.00  0.00           C 0
+ATOM    294  CE1 TYR B  37      -7.072  20.652   2.081  0.00  0.00           C 0
+ATOM    128    O ARG B  18     -12.455  27.405   1.558  0.62  1.07           O 0
+ATOM    168  CD2 HIS B  22     -15.918  26.695  -0.391  0.00  0.00           C 0
+ATOM    131   CD ARG B  18     -10.003  25.480  -2.911  0.00  0.00           C 0
+ATOM    809   CB PRO B 103      -5.434  15.847 -12.165  0.00  0.00           C 0
+ATOM    313   NZ LYS B  39     -10.865  18.724 -10.259  0.00  0.00          1+ 0
+ATOM    333  CE1 HIS B  41      -9.978  14.690 -11.120  0.00  0.00           C 0
+ATOM   1227  CD2 TYR B 158      -3.367  12.839  -5.147  0.00  0.00           C 0
+ATOM   1150    N VAL B 150      -5.280  12.582  -0.609  0.00  0.00           N 0
+ATOM    141   CG LEU B  19     -10.613  23.731   4.039  0.00  0.00           C 0
+ATOM    127    C ARG B  18     -11.264  27.088   1.591  0.00  0.00           C 0
+ATOM    136    N LEU B  19     -10.725  26.493   2.461  0.00  0.00           N 0
+ATOM    101   CA ILE B  15      -6.754  23.743   0.785  0.00  0.00           C 0
+TER
+END

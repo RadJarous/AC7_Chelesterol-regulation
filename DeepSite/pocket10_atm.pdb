@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0072
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8866
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5475
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 34.6000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.5266
+HEADER 10  -Pocket volume (convex hull)       : 4.9417
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   1828  OE1 GLN C  11      20.567   5.568   5.686  0.00  0.00           O 0
+ATOM   1813    O HIS C  10      21.510   3.583   0.293  0.41  1.07           O 0
+ATOM   1787    O TRP C   8      19.649   8.299  -1.254  0.42  8.57           O 0
+ATOM   1779    O ASP C   7      22.623   5.886  -1.231  0.00  0.00           O 0
+ATOM   1790  CD1 TRP C   8      23.651   9.730   0.310  0.00  0.00           C 0
+ATOM   2882  CE2 TYR C 147      13.566   5.863   3.064  0.00  0.00           C 0
+ATOM   1801    O TYR C   9      17.563   5.314  -1.831  0.00  0.00           O 0
+ATOM   2819  CG2 VAL C 139      14.072   8.256  -1.323  0.00  0.00           C 0
+ATOM   2810   CA GLY C 138      15.526   3.879  -0.414  0.00  0.00           C 0
+ATOM   1820    N GLN C  11      19.810   2.757   1.572  0.00  0.00           N 0
+ATOM   1812    C HIS C  10      20.332   3.224   0.356  0.00  0.00           C 0
+ATOM   1785   CA TRP C   8      22.005   8.160  -1.688  0.00  0.00           C 0
+ATOM   2807    O ALA C 137      17.283   2.664   1.308  0.00  0.00           O 0
+ATOM   1824   CB GLN C  11      20.334   3.514   3.850  0.00  0.00           C 0
+ATOM   2884   OH TYR C 147      13.621   4.844   5.221  0.82  6.43           O 0
+ATOM   2808   CB ALA C 137      15.430   2.326   3.848  0.00  0.00           C 0
+ATOM   1846   OH TYR C  13      18.627   4.667   7.327  0.68  4.29           O 0
+TER
+END

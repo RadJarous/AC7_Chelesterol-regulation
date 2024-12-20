@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0037
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1315
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7122
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 40.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.7798
+HEADER 10  -Pocket volume (convex hull)       : 6.8583
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   3144   CB LEU C 182      11.929  -6.693  25.733  0.00  0.00           C 0
+ATOM   3147  CD2 LEU C 182      14.176  -5.671  25.276  0.00  0.00           C 0
+ATOM   3146  CD1 LEU C 182      12.444  -5.764  23.462  0.00  0.00           C 0
+ATOM   3163   OH TYR C 184       7.161  -3.058  25.181  0.00  0.00           O 0
+ATOM   3143    O LEU C 182      10.804  -6.370  28.437  0.00  0.00           O 0
+ATOM   2517   CA GLY C 100       9.428  -3.213  22.182  0.00  0.00           C 0
+ATOM   2520    N VAL C 101       9.227  -0.940  21.471  0.00  0.00           N 0
+ATOM   2496    O ALA C  97      12.263  -1.090  21.727  0.44  2.14           O 0
+ATOM   2526  CG2 VAL C 101      10.418   1.822  21.890  0.00  0.00           C 0
+ATOM   2518    C GLY C 100       8.570  -1.981  21.964  0.00  0.00           C 0
+ATOM   3161  CE2 TYR C 184       8.144  -5.233  25.195  0.00  0.00           C 0
+ATOM   3378  CE1 PHE C 212       6.539  -4.310  29.343  0.00  0.00           C 0
+ATOM   2494   CA ALA C  97      14.514  -1.671  22.326  0.00  0.00           C 0
+ATOM   2497   CB ALA C  97      15.149  -0.483  23.044  0.00  0.00           C 0
+ATOM   2547   CG GLU C 104       5.337  -0.451  24.422  0.00  0.00           C 0
+ATOM   2229   CE LYS C  61       5.740   3.322  25.114  0.00  0.00           C 0
+ATOM   2521   CA VAL C 101       8.523   0.307  21.196  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0696
+HEADER 1  - Drug Score                        : 0.0047
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8483
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5064
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.3530
+HEADER 10  -Pocket volume (convex hull)       : 9.0030
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM   2072   SG CYS C  42     -17.869   4.278   3.427  0.00  0.00           S 0
+ATOM   2058    N GLU C  41     -17.917   9.570   2.672  0.67  1.09           N 0
+ATOM   2067    N CYS C  42     -17.006   7.344   3.940  0.00  0.00           N 0
+ATOM   2047   CA GLY C  39     -17.558   6.584  -0.660  0.00  0.00           C 0
+ATOM   2032   CB LYS C  37     -22.245   9.085   0.543  0.00  0.00           C 0
+ATOM   2002    O CYS C  33     -22.612   4.051   1.367  0.00  0.00           O 0
+ATOM   2004   SG CYS C  33     -21.388   2.576   5.565  0.00  0.00           S 0
+ATOM   2000   CA CYS C  33     -21.999   2.272   2.853  0.00  0.00           C 0
+ATOM   2003   CB CYS C  33     -21.056   2.969   3.834  0.00  0.00           C 0
+ATOM   2034   CD LYS C  37     -23.081  10.054   2.711  0.00  0.00           C 0
+ATOM   2046    N GLY C  39     -18.735   7.029  -1.389  0.00  0.00           N 0
+ATOM   2035   CE LYS C  37     -24.300  10.521   3.495  0.00  0.00           C 0
+ATOM   2036   NZ LYS C  37     -23.945  10.911   4.892  0.00  0.00          1+ 0
+ATOM   2024   CB ASN C  36     -26.551   6.712  -0.589  0.00  0.00           C 0
+ATOM   2026  ND2 ASN C  36     -28.383   5.417   0.320  0.00  0.00           N 0
+ATOM   2033   CG LYS C  37     -23.458   9.592   1.310  0.00  0.00           C 0
+ATOM   2062   CB GLU C  41     -19.486   9.229   4.533  0.00  0.00           C 0
+TER
+END

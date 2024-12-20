@@ -1,0 +1,30 @@
+INPUT FILES
+
+protein = protein_048c4da5a7.in
+ligand set size = 1
+ligand files = ligand_5d84505105
+cofactor set size = 0
+cofactor files = 
+
+GRID SETTINGS
+
+center x = -3
+center y = -8
+center z = -4
+total size x = 25
+total size y = 20
+total size z = 25
+discretization = 0.25
+
+GENETIC ALGORITHM SETTINGS
+
+number of evaluations = 1000000
+population size = 750
+number of runs = 24
+seed at run #1 = -1985
+
+JOB INFO
+
+submission date = 2022-09-08 12:05:45
+job name = AC7_CHol_631a04c9bbca2
+ID = Dock@Dock.CBQMO2GDZA

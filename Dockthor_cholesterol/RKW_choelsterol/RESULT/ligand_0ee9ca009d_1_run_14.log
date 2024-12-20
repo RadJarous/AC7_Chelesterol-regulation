@@ -1,0 +1,113 @@
+$Number_of_Clusters   =  10
+$Seed = -1985
+
+$Leader_Info  1 {
+
+	Num_Members =  34
+	Total_Energy = 48.393
+	vdW = -19.879
+	Coulomb = -3.674
+	Internal = 71.946
+	rmsd = 0.000
+
+}
+
+$Leader_Info  2 {
+
+	Num_Members =  40
+	Total_Energy = 48.435
+	vdW = -18.235
+	Coulomb = -5.169
+	Internal = 71.839
+	rmsd = 4.525
+
+}
+
+$Leader_Info  3 {
+
+	Num_Members =  40
+	Total_Energy = 48.511
+	vdW = -18.431
+	Coulomb = -4.040
+	Internal = 70.982
+	rmsd = 1.729
+
+}
+
+$Leader_Info  4 {
+
+	Num_Members =  44
+	Total_Energy = 48.627
+	vdW = -18.145
+	Coulomb = -4.664
+	Internal = 71.436
+	rmsd = 3.150
+
+}
+
+$Leader_Info  5 {
+
+	Num_Members =  43
+	Total_Energy = 48.713
+	vdW = -18.215
+	Coulomb = -4.380
+	Internal = 71.308
+	rmsd = 1.523
+
+}
+
+$Leader_Info  6 {
+
+	Num_Members =   4
+	Total_Energy = 49.024
+	vdW = -19.829
+	Coulomb = -2.623
+	Internal = 71.477
+	rmsd = 1.427
+
+}
+
+$Leader_Info  7 {
+
+	Num_Members =   2
+	Total_Energy = 49.151
+	vdW = -15.038
+	Coulomb = -6.772
+	Internal = 70.961
+	rmsd = 4.639
+
+}
+
+$Leader_Info  8 {
+
+	Num_Members =  12
+	Total_Energy = 49.609
+	vdW = -22.457
+	Coulomb = -0.257
+	Internal = 72.323
+	rmsd = 1.262
+
+}
+
+$Leader_Info  9 {
+
+	Num_Members =  36
+	Total_Energy = 50.257
+	vdW = -17.816
+	Coulomb = -3.024
+	Internal = 71.097
+	rmsd = 2.514
+
+}
+
+$Leader_Info 10 {
+
+	Num_Members =  46
+	Total_Energy = 50.301
+	vdW = -20.236
+	Coulomb = -0.797
+	Internal = 71.334
+	rmsd = 9.727
+
+}
+

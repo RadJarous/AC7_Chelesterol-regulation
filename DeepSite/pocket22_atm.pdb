@@ -1,0 +1,67 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0709
+HEADER 1  - Drug Score                        : 0.3037
+HEADER 2  - Number of alpha spheres           :    73
+HEADER 3  - Mean alpha-sphere radius          : 4.0668
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5042
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.2000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.0667
+HEADER 9  - Pocket volume (Monte Carlo)       : 820.2712
+HEADER 10  -Pocket volume (convex hull)       : 161.4863
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 29.5745
+HEADER 13 - Number of apolar alpha sphere     :    47
+HEADER 14 - Proportion of apolar alpha sphere : 0.6438
+ATOM    248   CG ASN B  32     -13.928  17.497  18.142  0.00  0.00           C 0
+ATOM    246    O ASN B  32     -11.830  15.467  15.149  0.00  0.00           O 0
+ATOM   2668  NE2 HIS C 119     -15.409  10.595  21.553  0.00  0.00           N 0
+ATOM    247   CB ASN B  32     -13.900  17.012  16.706  0.00  0.00           C 0
+ATOM   2098  CD1 LEU C  45     -14.507   6.668  11.207  0.00  0.00           C 0
+ATOM   2638  CG2 ILE C 116     -12.855   6.000  14.561  0.00  0.00           C 0
+ATOM    259  CE1 PHE B  33     -15.361  12.924  12.736  0.00  0.00           C 0
+ATOM   2673   CB SER C 120     -17.436   6.232  14.104  0.00  0.00           C 0
+ATOM    249  ND2 ASN B  32     -15.026  17.229  18.838  0.76  8.75           N 0
+ATOM   2611   NZ LYS C 112      -5.165   9.948  20.562  0.00  0.00          1+ 0
+ATOM   2610   CE LYS C 112      -4.521   8.690  20.080  0.00  0.00           C 0
+ATOM   2214   NZ LYS C  59      -0.724   9.017  23.428  0.00  0.00          1+ 0
+ATOM   2602   OG SER C 111      -6.300   3.480  23.794  0.00  0.00           O 0
+ATOM   2637  CG1 ILE C 116     -10.892   6.984  15.808  0.00  0.00           C 0
+ATOM   2120   CB GLU C  48     -11.124  10.123  11.508  0.00  0.00           C 0
+ATOM   2124  OE2 GLU C  48     -11.071  12.760  12.902  0.00  0.00          1- 0
+ATOM   2665  CD2 HIS C 119     -16.292  10.566  20.502  0.00  0.00           C 0
+ATOM    261   CZ PHE B  33     -16.451  13.581  13.284  0.00  0.00           C 0
+ATOM    260  CE2 PHE B  33     -16.502  14.966  13.271  0.00  0.00           C 0
+ATOM   2579    O ALA C 108      -3.549   3.341  20.172  0.00  0.00           O 0
+ATOM   2580   CB ALA C 108      -0.480   3.469  21.232  0.00  0.00           C 0
+ATOM   2189  CD2 LEU C  56      -0.938   7.412  20.021  0.00  0.00           C 0
+ATOM   2601   CB SER C 111      -5.607   2.640  22.888  0.00  0.00           C 0
+ATOM   2152  OD1 ASP C  52      -8.432   9.635  16.266  0.41  9.64           O 0
+ATOM   2629   CA GLY C 115     -11.862   5.678  20.682  0.00  0.00           C 0
+ATOM   2667  CE1 HIS C 119     -14.505   9.646  21.378  0.00  0.00           C 0
+ATOM   2630    C GLY C 115     -12.703   6.087  19.488  0.00  0.00           C 0
+ATOM   2632    N ILE C 116     -12.193   5.815  18.314  0.00  0.00           N 0
+ATOM   2121   CG GLU C  48     -11.923  11.372  11.165  0.00  0.00           C 0
+ATOM   2663   CB HIS C 119     -16.473   9.078  18.385  0.00  0.00           C 0
+ATOM   2635    O ILE C 116     -15.231   5.806  16.590  0.00  0.00           O 0
+ATOM   2661    C HIS C 119     -18.291   7.794  17.240  0.00  0.00           C 0
+ATOM   2669    N SER C 120     -17.958   6.774  16.442  0.00  0.00           N 0
+ATOM   2662    O HIS C 119     -19.202   8.549  16.893  0.38  4.29           O 0
+ATOM   2670   CA SER C 120     -18.534   6.539  15.122  0.00  0.00           C 0
+ATOM   2577   CA ALA C 108      -1.609   2.442  21.264  0.00  0.00           C 0
+ATOM   2633   CA ILE C 116     -12.906   6.150  17.087  0.00  0.00           C 0
+ATOM   2609   CD LYS C 112      -5.539   7.726  19.486  0.00  0.00           C 0
+ATOM   2600    O SER C 111      -8.314   3.681  21.330  0.46  2.14           O 0
+ATOM   2658  NH2 ARG C 118     -12.055   5.424  24.417  0.00  0.00           N 0
+ATOM   2606    O LYS C 112      -9.170   5.258  18.410  0.00  0.00           O 0
+ATOM   2666  ND1 HIS C 119     -14.777   9.010  20.251  0.88  3.28           N 0
+ATOM   2608   CG LYS C 112      -4.884   6.425  19.038  0.00  0.00           C 0
+ATOM   2664   CG HIS C 119     -15.899   9.568  19.676  0.00  0.00           C 0
+ATOM   2604   CA LYS C 112      -6.964   4.959  19.307  0.00  0.00           C 0
+TER
+END

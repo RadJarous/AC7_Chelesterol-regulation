@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0459
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9583
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5312
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 16.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.9227
+HEADER 10  -Pocket volume (convex hull)       : 14.6029
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   3032    O GLY C 167      -5.945  -7.865  19.533  0.00  0.00           O 0
+ATOM   3040   CE LYS C 168      -6.208 -13.641  19.865  0.00  0.00           C 0
+ATOM   3038   CG LYS C 168      -5.289 -11.532  18.839  0.00  0.00           C 0
+ATOM   3340  OG1 THR C 207      -3.637  -7.252  24.083  0.00  0.00           O 0
+ATOM   3324    O VAL C 205      -0.328 -10.274  22.535  0.54  5.36           O 0
+ATOM   3039   CD LYS C 168      -5.160 -13.047  18.934  0.00  0.00           C 0
+ATOM   3329   CA CYS C 206      -0.184 -10.659  25.150  0.00  0.00           C 0
+ATOM   3332   CB CYS C 206       0.100 -11.412  26.449  0.00  0.00           C 0
+ATOM   3333   SG CYS C 206       0.097 -13.209  26.265  0.00  0.00           S 0
+ATOM   3347  OD1 ASP C 208      -5.560  -9.780  28.646  0.00  0.00           O 0
+ATOM   3184  OE2 GLU C 187      -2.791 -16.994  24.055  0.00  0.00          1- 0
+ATOM   3034   CA LYS C 168      -4.108  -9.401  18.059  0.00  0.00           C 0
+ATOM   3339  CG2 THR C 207      -1.669  -6.805  22.767  0.00  0.00           C 0
+ATOM   3314   CB PHE C 204      -0.942 -13.977  19.971  0.00  0.00           C 0
+ATOM   3313    O PHE C 204       1.347 -13.645  22.013  0.00  0.00           O 0
+ATOM   3041   NZ LYS C 168      -6.061 -15.122  19.991  0.00  0.00          1+ 0
+ATOM   3334    N THR C 207      -1.366  -8.528  25.217  0.00  0.00           N 0
+TER
+END

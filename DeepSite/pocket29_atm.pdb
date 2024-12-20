@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1410
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5633
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 5.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.7862
+HEADER 10  -Pocket volume (convex hull)       : 10.6721
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   2788   CD PRO C 134      17.448  -8.929   8.591  0.00  0.00           C 0
+ATOM   2933  OG1 THR C 153      14.004  -8.632   7.704  0.39  4.29           O 0
+ATOM   2925  ND2 ASN C 152      12.832 -13.723   5.075  0.00  0.00           N 0
+ATOM   2771    O HIS C 132      13.466  -9.502  11.685  0.43  7.50           O 0
+ATOM   2766  ND2 ASN C 131      10.399 -10.683   9.516  0.00  0.00           N 0
+ATOM   3090  OE2 GLU C 174      11.863 -16.221  13.342  0.00  0.00          1- 0
+ATOM   3086   CB GLU C 174      13.296 -14.639  15.058  0.00  0.00           C 0
+ATOM   3087   CG GLU C 174      13.952 -15.859  14.426  0.00  0.00           C 0
+ATOM   3258   NZ LYS C 197      11.642 -14.251   5.701  0.00  0.00          1+ 0
+ATOM   3279  CD2 LEU C 200       9.201 -19.000   8.930  0.00  0.00           C 0
+ATOM   3089  OE1 GLU C 174      13.347 -17.839  13.228  0.55  8.57           O 0
+ATOM   3278  CD1 LEU C 200       7.581 -17.332   7.987  0.00  0.00           C 0
+ATOM   2955  CG2 VAL C 156       9.385 -13.301   6.481  0.00  0.00           C 0
+ATOM   2767  OD1 ASN C 131      10.261 -11.202  11.699  0.44  2.14           O 0
+ATOM   3088   CD GLU C 174      12.987 -16.702  13.607  0.00  0.00           C 0
+ATOM   2954  CG1 VAL C 156       8.105 -13.032   8.625  0.00  0.00           C 0
+ATOM   3071  CG2 THR C 172       8.107 -13.857  11.975  0.00  0.00           C 0
+TER
+END
