@@ -1,6 +1,6 @@
 ## Article Title: Cholesterol derivatives regulate Adenylyl cyclase 7 activity by binding CARC and CRAC motifs in the cytosolic parts
 
-### Authors: [Radim Jaroušek] [423168@muni.cz]
+### Author: [Radim Jaroušek] [423168@muni.cz]
 
 ### Corresponding Author:[Lukas Kubala] [kubalal@ibp.cz]
 
